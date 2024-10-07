@@ -1,2 +1,3 @@
 # TMLR_Code
-Ceci est le code de l'article : Sur la limite théorique de la descente de gradient pour les réseaux neuronaux Recurrent Neural Networks avec une précision finie
+This is the code of the article: On the theoretical limit of gradient descent for Re- neural networks
+current Neural Networks with finite precision
